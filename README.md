@@ -1,1 +1,2 @@
-Matthew Howe
+	Matthew Howe
+howem@oregonstate.edu
