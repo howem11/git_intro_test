@@ -1,3 +1,2 @@
-	Matthew Howe
-howem@oregonstate.edu
-green
+Matthew Howe
+32
